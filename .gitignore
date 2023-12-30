@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+projects/airflow_mlflow_streamlit/.idea
+projects/airflow_mlflow_streamlit/mlruns/0
